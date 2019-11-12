@@ -1,2 +1,0 @@
-# jWork
-Created with CodeSandbox
